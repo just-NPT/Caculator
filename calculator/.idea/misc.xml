@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24583333333333332" />
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable/backspace.xml" value="0.24583333333333332" />
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable/btn_backspace.xml" value="0.24583333333333332" />
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable/button.xml" value="0.2" />
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable/ic_backspace1_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable/ic_backspace1_foreground.xml" value="0.24583333333333332" />
+        <entry key="..\:/Test/calculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/Test/calculator/app/src/main/res/layout/activity_main.xml" value="0.14385964912280702" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
