@@ -11,7 +11,6 @@
     <string name="Seven">7</string>
     <string name="Eight">8</string>
     <string name="Nine">9</string>
-    <string name="Ten">10</string>
 
     <string name="Multi">*</string>
     <string name="Div">/</string>
@@ -20,13 +19,13 @@
     <string name="Equal">=</string>
 
     <string name="back_space"> </string>
-    <string name="Point">.</string>
+    <string name="Dot">.</string>
 
     <string name="clear">C</string>
     <string name="clear_entry">CE</string>
     <string name="parentheses">()</string>
-    <string name="display">Type something</string>
-    <string name="input">0</string>
+    <string name="calculation"> </string>
+    <string name="result">0</string>
     <string name="backspace">backspace</string>
     <string name="plusMinusBTN">+/-</string>
 
